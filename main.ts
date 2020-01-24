@@ -26,3 +26,4 @@ f b b b b f 2 2 2 2 f d 4 . . . . . . . . . . .
 `, SpriteKind.Player)
 controller.moveSprite(mySprite)
 mySprite.say(":)")
+music.baDing.play()
